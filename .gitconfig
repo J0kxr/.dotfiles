@@ -1,5 +1,5 @@
 [user]
-	editor = code
+	editor = nvim 
 	name = Torben
 	email = 55281784+J0kxr@users.noreply.github.com
 [init]
