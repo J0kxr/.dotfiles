@@ -5,3 +5,6 @@ alias ru='rustup update'
 alias cn='cargo new'
 alias cfm="cargo fmt"
 alias home="cd ~"
+alias zshcnfg="vim ~/.dotfiles/oh-my-zsh/.zshrc"
+alias editalias="vim ~/.dotfiles/oh-my-zsh/custom/aliases.zsh"
+alias restart="source ~/.dotfiles/oh-my-zsh/.zshrc" 
