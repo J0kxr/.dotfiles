@@ -78,6 +78,8 @@ rust
 zsh-autosuggestions
 alias-finder
 aliases
+brew
+zsh-syntax-highlighting
 )
 
 source $ZSH/oh-my-zsh.sh
