@@ -14,7 +14,7 @@ You have to link the files using 'ln -s source (original file this repo) target 
 
 `git clone git@github.com:ohmyzsh/ohmyzsh.git ~/.oh-my-zsh/` 
 
-3. Remove placeholder files from official repository and replace them with the files of your repo
+3. Remove placeholder files from official repository (.oh-my-zsh/) and replace them with the linked files of your repo (in this case .dotfiles/)
 
 
 .zshrc
@@ -26,9 +26,9 @@ You have to link the files using 'ln -s source (original file this repo) target 
 
 aliases.zsh
 
-> `rm -rf ~/.oh-my-zsh/custom/aliasas.zsh`
+> `rm -rf ~/.oh-my-zsh/custom/aliases.zsh`
 
-> `ln -s ~/.dotfiles/oh-my-zsh/custom/aliasas.zsh ~/.oh-my-zsh/custom/aliasas.zsh`
+> `ln -s ~/.dotfiles/oh-my-zsh/custom/aliases.zsh ~/.oh-my-zsh/custom/aliases.zsh`
 
 
 examples.plugins.zsh
